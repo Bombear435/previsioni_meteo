@@ -1,2 +1,3 @@
 # previsioni_meteo
-It does get today weather forecast
+Inserendo il CAP si ottengono le previsioni del tempo per il giorno corrente e all'ora che si preferisce.
+Per semplicità funziona solo con codici postali italiani.
